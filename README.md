@@ -1,2 +1,2 @@
 # flask-blog
-this is flask blog 
+this is my first flask blog
